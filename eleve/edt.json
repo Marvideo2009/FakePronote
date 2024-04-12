@@ -1,0 +1,102 @@
+{
+    "3": {
+        "A": {
+            "lundi": {
+                "1": "ESPAGNOL LV2",
+                "2": "ARTS PLASTIQUES",
+                "3": "SCIENCES VIE & TERRE",
+                "4": "MATHEMATIQUES",
+                "5": "",
+                "6": "FRANCAIS",
+                "7": "ANGLAIS LV1",
+                "8": "HISTOIRE-GEOGRAPHIE"
+            },
+            "mardi": {
+                "1": "ESPAGNOL LV2",
+                "2": "ANGLAIS LV1",
+                "3": "MATHEMATIQUES",
+                "4": "FRANCAIS",
+                "5": "",
+                "6": "CDSG",
+                "7": "CDSG",
+                "8": ""
+            },
+            "mercredi": {
+                "1": "HISTOIRE-GEOGRAPHIE",
+                "2": "ESPAGNOL LV2",
+                "3": "ED.PHYSIQUE & SPORT.",
+                "4": "ED.PHYSIQUE & SPORT.",
+                "5": "",
+                "6": "",
+                "7": "",
+                "8": ""
+            },
+            "jeudi": {
+                "1": "EURO ANGLAIS",
+                "2": "EDUCATION MUSICALE",
+                "3": "PHYSIQUE-CHIMIE",
+                "4": "MATHEMATIQUES",
+                "5": "",
+                "6": "HISTOIRE-GEOGRAPHIE",
+                "7": "TECHNOLOGIE",
+                "8": "ANGLAIS LV1"
+            },
+            "vendredi": {
+                "1": "ED.PHYSIQUE & SPORT.",
+                "2": "ED.PHYSIQUE & SPORT.",
+                "3": "MATHEMATIQUES",
+                "4": "SCIENCES VIE & TERRE",
+                "5": "",
+                "6": "",
+                "7": "FRANCAIS",
+                "8": "HISTOIRE-GEOGRAPHIE"
+            }
+        },
+        "B": {
+            "lundi": {
+                "1": "FRANCAIS",
+                "2": "EDUCATION MUSICALE"
+            },
+            "mardi": {
+                "1": "FRANCAIS",
+                "2": "EDUCATION MUSICALE"
+            },
+            "mercredi": {
+                "1": "FRANCAIS",
+                "2": "EDUCATION MUSICALE"
+            },
+            "jeudi": {
+                "1": "FRANCAIS",
+                "2": "EDUCATION MUSICALE"
+            },
+            "vendredi": {
+                "1": "FRANCAIS",
+                "2": "EDUCATION MUSICALE"
+            }
+        }
+    },
+    "horaire": {
+        "1": "8h00/8h58",
+        "2": "8h58/10h12",
+        "3": "10h12/11h10",
+        "4": "11h10/12h05",
+        "5": "12h05/13h35",
+        "6": "13h35/14h33",
+        "7": "14h33/15h45",
+        "8": "15h45/16h40"
+    },
+    "nbboucle": {
+        "lundi": "9",
+        "mardi": "8",
+        "mercredi": "5",
+        "jeudi": "9",
+        "vendredi": "9"
+    },
+    "day": {
+        "0": "lundi",
+        "1": "mardi",
+        "2": "mercredi",
+        "3": "jeudi",
+        "4": "vendredi"
+    }
+}
