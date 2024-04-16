@@ -71,7 +71,6 @@ Toast.fire({
                                 echo "<script type='text/javascript'>document.location.replace('/pronote/eleve/');</script>";
                                 exit();
                             }
-                            $TraitementFini = true;
                     }
                     //$_SESSION['id'] = "1";
                     //$_SESSION = $perms;
